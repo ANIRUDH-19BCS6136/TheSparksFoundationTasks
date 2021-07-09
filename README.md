@@ -1,2 +1,7 @@
 # TheSparksFoundationTasks
-This repository contains all the tasks that I performed in my Data Science and Business Analytics Internship @ The Sparks Foundation during the month of July 2021
+
+**The Dataset for the above tasks is as follows :**\
+Click the link to open
+```
+[Task-1](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
+```
