@@ -12,5 +12,8 @@ Click the link to open
 [Task-5](https://bit.ly/34SRn3b)
 
 ---
+Additional Tasks Folder: Computer Vision & Internet of Things
+
+
 **Please see:** The numbering of the Tasks are not serially !
 
