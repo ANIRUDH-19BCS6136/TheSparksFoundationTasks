@@ -2,6 +2,10 @@
 
 **The Required items are uploaded in the folder above**
 ---
+
+**For Task 1: Object Detection / Optical Character Recognition (ORC)**\ 
+Items: CVIT1.ipynb, alphabet.jpg, handwritten.jpeg
+
 **For Task 2: Color Identification in Images**\
 Items: CVIT2.ipynb, colorful.jpg, colors.csv
 ```
